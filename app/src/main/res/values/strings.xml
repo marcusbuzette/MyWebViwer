@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWebViwer</string>
+    <string name="textViewChoose">Please choose your website</string>
+    <string name="textViewUCSD">UCSD Extension</string>
+    <string name="textViewYahoo">Yahoo</string>
+    <string name="buttomGo">GO</string>
+</resources>
